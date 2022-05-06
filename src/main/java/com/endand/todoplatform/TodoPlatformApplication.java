@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TodoPlatformApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Test");
 		SpringApplication.run(TodoPlatformApplication.class, args);
 	}
+
+
 
 }
