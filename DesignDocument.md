@@ -3,5 +3,5 @@
 <h4> Entity Relationship Diagram Model </h4>
 
 This is the current ER diagram of the database.
-<img title="ER diagram" alt="Entity Relationship Diagram Model" src="/images/Todo">
+<img title="ER diagram" alt="Entity Relationship Diagram Model" src="/images/todo db diagram.png">
 
